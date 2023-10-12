@@ -33,4 +33,18 @@ Next step is to clone the repository from github you want to work on.
 
 ``` git branch new-feature``` *creates a branch called "new feature"*
 
-``` git branch``` *check which branch you are on*
+``` git branch``` *shows which branches exist, in this case main and new-feature. the green color indiicates the branch I'm currently on*
+
+![Screenshot 2023-10-11 at 1 59 39 PM](https://github.com/novatr9/Misc/assets/133291499/91c4417b-a64d-4955-9487-f92c4f4994b2)
+
+```git checkout new-feature``` *jump to the new-feature branch*
+
+![Screenshot 2023-10-11 at 2 02 09 PM](https://github.com/novatr9/Misc/assets/133291499/62c7fabd-3c7d-43c0-93e0-7c259d927111)
+
+```git branch``` *let's check*
+
+![Screenshot 2023-10-11 at 2 03 04 PM](https://github.com/novatr9/Misc/assets/133291499/ec4a0119-54e0-4ed0-9bac-1f796775bf19) *it worked!*
+
+## 3. Makes changes
+
+### 3.1 Add a file
