@@ -1,0 +1,15 @@
+Welcome to University of Colorado Boulder Research Computing!
+
+Full documentation is available in our user guide at
+https://www.rc.colorado.edu/support/user-guide. If you have a question
+that's not answered there, contact us at rc-help@colorado.edu.
+
+A number of directories have been created for you already:
+
+* `/home/$USER`, your home directory
+* `/projects/$USER`, your project directory
+  
+Run the command `module avail` to see a list of available software.
+
+To prevent this README from being displayed at login, edit your
+`.bash_profile` or `.login` files.
